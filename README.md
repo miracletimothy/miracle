@@ -21,9 +21,9 @@ A Software Engineer🛠 from Uganda🇺🇬.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
- <!-- <a href="https://www.tesseractlabs.biz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+ <a href="https://www.tesseractlabs.biz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tesseractlabs.biz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/miracletimothyofficial/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Miracle%20Timothy-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/piyush_eon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miracletimothyofficial-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/miracletimothyofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miracletimothyofficial-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:miracletimothyofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-miracletimothyofficial@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
