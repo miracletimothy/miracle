@@ -3,7 +3,7 @@
 A Software Engineer🛠 from Uganda🇺🇬.
 
 - 👨‍💻 Software Engineer
-- 📚 What do I believe? Jack of all, Master of some.
+- 📚 What do I believe? I Believe in the power of unity to achieve remarkable outcomes with minimal resources.
 - 📫 How to reach me: [Instagram](https://instagram.com/miracletimothyofficial)
 - 🎙 Freelance [Audio Producer](https://tesseractlabs.biz/)
 
